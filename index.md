@@ -1,4 +1,4 @@
 ---
-title: Welcome to my Page of Papers 📖!
+title: Welcome to my Page of Papers 
 ---
 
