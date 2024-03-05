@@ -1,4 +1,3 @@
-# Welcome to my Page of Papers :book:! 
 
 On this page, I curate a collection of interesting papers from various authors in the field of Machine Learning, especially Large Language Models and Graph Neural Networks.
 
